@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Keil_v5/ARM/ARMCC/include",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "USE_STDPERIPH_DRIVER", 
+                "STM32F40_41xx",
+                "__USE_C99_MATH",
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
