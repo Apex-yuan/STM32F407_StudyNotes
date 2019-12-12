@@ -1,10 +1,29 @@
+---
+#设置图片文件的根目录为上一级文件夹
+typora-root-url: ..
+
+# 以下内容是为了配合Hexo博客使用：
+title: STM32学习笔记(一)---基础知识
+date: 2019-08-1 12:00:00
+author: Apex-yuan
+index_img: /Image/1565069902801.png  #缩略图显示
+#banner_img: /Image/1565056497193.png #顶部大图显示
+
+categories: 单片机   #分类
+tags:  #标签
+  - STM32
+  - 学习笔记
+---
+
+
+
 # STM32学习笔记(二)---GPIO
 
-[TOC]
+
 
 ## GPIO功能框图
 
-![1565069902801](.\图片\1565069902801.png)
+![1565069902801](/Image/1565069902801.png)
 
 ## GPIO功能描述
 
@@ -40,4 +59,4 @@
 
 ## GPIO输出实验
 
-参考程序文件夹下的LED_REG例程。
+参考Program文件夹下的LED_REG例程。
